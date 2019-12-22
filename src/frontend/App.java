@@ -40,13 +40,17 @@ public class App
 	 */
 	private void buildFrame()
 	{
+		// Start the frame creation.
 		mainFrame = new JFrame("TTRL Customer Tracking");
 		mainFrame.setLayout(new GridBagLayout());
 		
+		// Since we are using GridBag we kinda need this.
 		GridBagConstraints c = new GridBagConstraints();
 		
+		// This is where the logo is.
 		JLabel logo = new JLabel(new ImageIcon("src/media/logo.png"));
 		
+		// Throw that logo in there.
 		c.fill = GridBagConstraints.HORIZONTAL;
 		c.gridx = 0;
 		c.gridy = 0;
@@ -54,6 +58,7 @@ public class App
 		c.gridwidth = 1;
 		mainFrame.add(logo);
 		
+		// Finish off frame creation.
 		mainFrame.setSize(new Dimension(500, 500));
 		mainFrame.setResizable(false);
 		Dimension d = Toolkit.getDefaultToolkit().getScreenSize();
