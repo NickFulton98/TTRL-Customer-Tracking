@@ -1,0 +1,298 @@
+<?xml version="1.0"?>
+<RDSalesDetail xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceName>Student  Union at SJSU/SaleData.xml</SourceName>
+  <DateStart>2019-12-17T00:00:00</DateStart>
+  <DateEnd>2019-12-17T00:00:00</DateEnd>
+  <TimeStart>0001-01-01T00:00:00</TimeStart>
+  <TimeEnd>0001-01-01T00:00:00</TimeEnd>
+  <DateShift>0001-01-01T00:00:00</DateShift>
+  <TerminalName />
+  <PersonName />
+  <Grouping>Department</Grouping>
+  <DepartmentSales>
+    <RPTSalesDepartment>
+      <DepartmentName>Bowling</DepartmentName>
+      <TotalSalesQuantity>884</TotalSalesQuantity>
+      <TotalSalesAmount>627.7500</TotalSalesAmount>
+      <TotalRefundQuantity>-4</TotalRefundQuantity>
+      <TotalRefundAmount>-14.7500</TotalRefundAmount>
+      <TotalAmount>613.0000</TotalAmount>
+      <TotalTaxAmount>0</TotalTaxAmount>
+      <SubDepartmentSales>
+        <RPTSalesSubDepartment>
+          <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+          <TotalSalesQuantity>813</TotalSalesQuantity>
+          <TotalSalesAmount>456.7500</TotalSalesAmount>
+          <TotalRefundQuantity>-4</TotalRefundQuantity>
+          <TotalRefundAmount>-14.7500</TotalRefundAmount>
+          <TotalAmount>442.0000</TotalAmount>
+          <TotalTaxAmount>0</TotalTaxAmount>
+          <ProductItems>
+            <RPTSalesProductItem>
+              <ProductName>Bowling Class Member Game </ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+              <SoldByType>Unit</SoldByType>
+              <AvailabilityMapName>24/7</AvailabilityMapName>
+              <AvailabilityLevelName>Default</AvailabilityLevelName>
+              <SalesQuantity>2</SalesQuantity>
+              <SalesAmount>3.5000</SalesAmount>
+              <RefundQuantity>0</RefundQuantity>
+              <RefundAmount>0</RefundAmount>
+              <UnitAmount>1.7500</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>3.5000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+            <RPTSalesProductItem>
+              <ProductName>Bowling Team Hour</ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+              <SoldByType>Time</SoldByType>
+              <AvailabilityMapName>24/7</AvailabilityMapName>
+              <AvailabilityLevelName>Default</AvailabilityLevelName>
+              <SalesQuantity>90</SalesQuantity>
+              <SalesAmount>12.0000</SalesAmount>
+              <RefundQuantity>0</RefundQuantity>
+              <RefundAmount>0</RefundAmount>
+              <UnitAmount>8.0000</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>12.0000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+            <RPTSalesProductItem>
+              <ProductName>Bowling Team Member Games</ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+              <SoldByType>Unit</SoldByType>
+              <AvailabilityMapName>24/7</AvailabilityMapName>
+              <AvailabilityLevelName>Default</AvailabilityLevelName>
+              <SalesQuantity>12</SalesQuantity>
+              <SalesAmount>15.0000</SalesAmount>
+              <RefundQuantity>0</RefundQuantity>
+              <RefundAmount>0</RefundAmount>
+              <UnitAmount>1.2500</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>15.0000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+            <RPTSalesProductItem>
+              <ProductName>Community Game</ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+              <SoldByType>Unit</SoldByType>
+              <AvailabilityMapName>Community</AvailabilityMapName>
+              <AvailabilityLevelName>Sun - Thur 5p - CL</AvailabilityLevelName>
+              <SalesQuantity>5</SalesQuantity>
+              <SalesAmount>25.0000</SalesAmount>
+              <RefundQuantity>-1</RefundQuantity>
+              <RefundAmount>-5.0000</RefundAmount>
+              <UnitAmount>5.0000</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>20.0000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+            <RPTSalesProductItem>
+              <ProductName>Student Game</ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+              <SoldByType>Unit</SoldByType>
+              <AvailabilityMapName>24/7</AvailabilityMapName>
+              <AvailabilityLevelName>Default</AvailabilityLevelName>
+              <SalesQuantity>57</SalesQuantity>
+              <SalesAmount>185.2500</SalesAmount>
+              <RefundQuantity>-3</RefundQuantity>
+              <RefundAmount>-9.7500</RefundAmount>
+              <UnitAmount>3.2500</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>175.5000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+            <RPTSalesProductItem>
+              <ProductName>Student Hour</ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+              <SoldByType>Time</SoldByType>
+              <AvailabilityMapName>24/7</AvailabilityMapName>
+              <AvailabilityLevelName>Default</AvailabilityLevelName>
+              <SalesQuantity>615</SalesQuantity>
+              <SalesAmount>164.0000</SalesAmount>
+              <RefundQuantity>0</RefundQuantity>
+              <RefundAmount>0</RefundAmount>
+              <UnitAmount>16.0000</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>164.0000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+            <RPTSalesProductItem>
+              <ProductName>Student Staff Game</ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+              <SoldByType>Unit</SoldByType>
+              <AvailabilityMapName>Off Peak</AvailabilityMapName>
+              <AvailabilityLevelName>Mon - Sun Op - 5p</AvailabilityLevelName>
+              <SalesQuantity>6</SalesQuantity>
+              <SalesAmount>0.0000</SalesAmount>
+              <RefundQuantity>0</RefundQuantity>
+              <RefundAmount>0</RefundAmount>
+              <UnitAmount>0.0000</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>0.0000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+            <RPTSalesProductItem>
+              <ProductName>Tuesday $2 Game </ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Open Bowling Games</SubDepartmentName>
+              <SoldByType>Unit</SoldByType>
+              <AvailabilityMapName>Tuesday Special</AvailabilityMapName>
+              <AvailabilityLevelName>Mon - Sun Op - 5p</AvailabilityLevelName>
+              <SalesQuantity>26</SalesQuantity>
+              <SalesAmount>52.0000</SalesAmount>
+              <RefundQuantity>0</RefundQuantity>
+              <RefundAmount>0</RefundAmount>
+              <UnitAmount>2.0000</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>52.0000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+          </ProductItems>
+          <AdjustmentItems />
+          <ModifierItems />
+          <BankingItems />
+        </RPTSalesSubDepartment>
+        <RPTSalesSubDepartment>
+          <SubDepartmentName>Shoe Rental</SubDepartmentName>
+          <TotalSalesQuantity>71</TotalSalesQuantity>
+          <TotalSalesAmount>171.0000</TotalSalesAmount>
+          <TotalRefundQuantity>0</TotalRefundQuantity>
+          <TotalRefundAmount>0</TotalRefundAmount>
+          <TotalAmount>171.0000</TotalAmount>
+          <TotalTaxAmount>0</TotalTaxAmount>
+          <ProductItems>
+            <RPTSalesProductItem>
+              <ProductName>Student $2Shoe</ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Shoe Rental</SubDepartmentName>
+              <SoldByType>Unit</SoldByType>
+              <AvailabilityMapName>Tuesday Special</AvailabilityMapName>
+              <AvailabilityLevelName>Mon - Sun Op - 5p</AvailabilityLevelName>
+              <SalesQuantity>13</SalesQuantity>
+              <SalesAmount>26.0000</SalesAmount>
+              <RefundQuantity>0</RefundQuantity>
+              <RefundAmount>0</RefundAmount>
+              <UnitAmount>2.0000</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>26.0000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+            <RPTSalesProductItem>
+              <ProductName>Student Shoe Rental</ProductName>
+              <DepartmentName>Bowling</DepartmentName>
+              <SubDepartmentName>Shoe Rental</SubDepartmentName>
+              <SoldByType>Unit</SoldByType>
+              <AvailabilityMapName>24/7</AvailabilityMapName>
+              <AvailabilityLevelName>Default</AvailabilityLevelName>
+              <SalesQuantity>58</SalesQuantity>
+              <SalesAmount>145.0000</SalesAmount>
+              <RefundQuantity>0</RefundQuantity>
+              <RefundAmount>0</RefundAmount>
+              <UnitAmount>2.5000</UnitAmount>
+              <TaxAmount>0</TaxAmount>
+              <TotalAmount>145.0000</TotalAmount>
+              <SoldInPackage>false</SoldInPackage>
+              <IsTaxExempt>false</IsTaxExempt>
+              <IsTaxIncluded>false</IsTaxIncluded>
+              <Owner />
+              <Terminal />
+              <TaxName />
+            </RPTSalesProductItem>
+          </ProductItems>
+          <AdjustmentItems />
+          <ModifierItems />
+          <BankingItems />
+        </RPTSalesSubDepartment>
+      </SubDepartmentSales>
+      <IsSales>true</IsSales>
+      <Owner />
+      <Terminal />
+    </RPTSalesDepartment>
+  </DepartmentSales>
+  <TotalSalesAmount>598.2500</TotalSalesAmount>
+  <ItemTaxes />
+  <TotalTaxAmount>0</TotalTaxAmount>
+  <TotalBankingAmount>0</TotalBankingAmount>
+  <CashPayments>
+    <RPTCashPayment>
+      <Name>Cash</Name>
+      <TotalAmount>73.0000</TotalAmount>
+      <TotalTendered>117.2500</TotalTendered>
+      <TotalChange>-44.2500</TotalChange>
+      <Owner />
+      <Terminal />
+    </RPTCashPayment>
+    <RPTCashPayment>
+      <Name>Credit Card</Name>
+      <TotalAmount>540.0000</TotalAmount>
+      <TotalTendered>540.0000</TotalTendered>
+      <TotalChange>0.0000</TotalChange>
+      <Owner />
+      <Terminal />
+    </RPTCashPayment>
+  </CashPayments>
+  <TotalCashPayments>613.0000</TotalCashPayments>
+  <CreditPayments />
+  <TotalCreditPayments>0</TotalCreditPayments>
+  <StoredValuePayments />
+  <TotalStoredValuePayments>0</TotalStoredValuePayments>
+  <PackageSales />
+  <Accounts />
+  <GratuityItems />
+  <Departments />
+  <SubDepartments />
+</RDSalesDetail>
